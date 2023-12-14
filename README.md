@@ -28,12 +28,8 @@ textBg=true)
 ---
 
 
-* 1번
-* 2번
-* 3번
 
 [네이버](https://www.naver.com)
 
 
 
-System.out.println("헬로 월드");
