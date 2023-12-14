@@ -24,12 +24,3 @@ textBg=true)
 
 
 
-##### Hi there 👋
----
-
-
-
-[네이버](https://www.naver.com)
-
-
-
