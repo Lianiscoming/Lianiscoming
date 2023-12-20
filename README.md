@@ -14,9 +14,9 @@ ___
 <br>
 <br>
 
-<h4 align="left">🛠️Languages</h4>
+<h4 align="left">Languages</h4>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=OpenJDK&logoColor=white">
-<h4 align="left">🛠️Framwork & Skill</h4>
+<h4 align="left">Framwork & Skill</h4>
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
@@ -27,13 +27,13 @@ ___
   
 </div>
 
-<h4 align="left">🛠️DevOps</h4>
+<h4 align="left">DevOps</h4>
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=plastic&logo=Amazon EC2&logoColor=white">
 </div>
-<h4 align="left">🛠️Tool & Collaboration</h4>
+<h4 align="left">Tool & Collaboration</h4>
 <div>
   <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
