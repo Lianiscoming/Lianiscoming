@@ -1,15 +1,5 @@
 
 
-
-![header](https://capsule-render.vercel.app/api?
-type=rounded&
-color=gradient&
-text=%20Java 개발자%20&
-height=200&
-fontSize=50&
-fontColor=FF00FF&
-textBg=true)
-
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=DangtangEee)](https://github.com/DangtangEee)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DangtangEee)](https://github.com/DangtangEee/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DangtangEee&layout=compact)](https://github.com/DangtangEee/github-readme-stats)
