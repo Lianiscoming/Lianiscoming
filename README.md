@@ -39,6 +39,7 @@ ___
   <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=plastic&logo=Sourcetree&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white">
 </div>
 <h4 align="left">✏️학습중</h4>
 <div>
